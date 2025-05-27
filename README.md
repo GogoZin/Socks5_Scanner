@@ -1,8 +1,8 @@
 # ⚡ Python Socks5 Scanner
 ![License](https://img.shields.io/badge/license-MIT-green)  
 > 🛡️ 透過pysocks掃描IP:4145 確認連線能力 **可以在大部分vps或是vm運行!**，  
-> 常做掃描的人一定知道的, zmap沒多少vps能用 但是這款一定可以，
-> 你也可以自訂自己的標準跟port 即可掃描不同設備 缺點就是python速度不如zmap
+> 常做掃描的人一定知道的, zmap沒多少vps能用 但是這款一定可以，  
+> 你也可以自訂自己的標準跟port 即可掃描不同設備 缺點就是python速度不如zmap  
 
 ---
 
